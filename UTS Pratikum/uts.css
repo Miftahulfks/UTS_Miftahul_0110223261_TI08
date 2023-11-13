@@ -1,0 +1,13 @@
+body fieldset{
+    background-color: yellow;
+    padding: 5px 5px 20px 5px;
+}
+body h2{
+    color: blue;
+}
+body ul{
+    color: brown;
+}
+body tr{
+    color: blue;
+}
